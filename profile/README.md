@@ -14,7 +14,7 @@ The Client program is a command-line interface that provides end-users with a st
 
 Client messages are securely transmitted using end-to-end encryption, ensuring data confidentiality between the Client, Server, and recipients. Account credentials are also transported securely using the same encryption method to prevent unauthorized access to user accounts. Additionally, account credentials and chat backups are stored in an encrypted format within the Server's MySQL database, providing an extra layer of security.
 
-## Explanation &amp; Installation
+## Explanation
 
 ### End-to-End Encryption
 
