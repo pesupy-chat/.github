@@ -56,4 +56,8 @@ The project's future enhancements may include:
 
 This open-source project empowers users to control their chat server's security and functionality while providing a user-friendly experience.
 
+### Where are the repositories??
+
+As the project is still a work in progress, repositories pertaining to the project are private. After the first fully working prototype of the project is ready, all repositories will be made public under the GNU AGPL license.
+
 _README.md created by [Si6gma](https://github.com/Si6gma)_
