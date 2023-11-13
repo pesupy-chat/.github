@@ -60,4 +60,4 @@ The project's future enhancements may include:
 
 This open-source project empowers users to control their chat server's security and functionality while providing a user-friendly experience.
 
-_README.md created by [Si6gma](https://github.com/Si6gma), edited by @pseudoforceyt_ 
+_README.md created by [Si6gma](https://github.com/Si6gma), edited by [pseudoforceyt](https://github.com/pseudoforceyt)_ 
