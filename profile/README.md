@@ -1,4 +1,18 @@
 # pesupy-chat
+```
+                                                     ......  .   ..
+   -======+++**##%+                                  %*---%::%   @-
+  +@#+++*@@+=--:-%%.                                 %.  .% *= .+% 
+  *@-   :@#     .%%.                                :@+++*- -+==#= 
+  #@:   -@#..:::-%%.                                =*    .%.   %. 
+ .%%.   :%%%%#####=  :*-       =-    :%%###%%%%%+   *:    +%+++*=  
+ .@%                 *@-      :@#  ..-@@=:-@%:..                   
+ -@*     .=++++***:. %@:      :@# .#@%%@@%%%@@###***=              
+ =@+    .%@+===-=%%- %%.      -@* :@# -@*  -@#:*@*--.              
+ +@=    .%%.     *@+ @#       :@# :@# =@+  -@* =@+                 
+ #@:   .:%%======#@* @#-----==*@* -@%+#@#+=#@= +@=                 
+.#@%%%%%%##*+++++=:. =******+++=.  :===+==++-  +@=            CHAT
+```
 
 The project aims to create an end-to-end encrypted chat platform that enables users to securely exchange text messages. It consists of a Server program, which runs on a network-connected computer, and a command-line Client application for users to connect, create accounts, and engage in secure chatting with other account holders on the server.
 
