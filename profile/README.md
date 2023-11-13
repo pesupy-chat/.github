@@ -2,6 +2,10 @@
 
 The project aims to create an end-to-end encrypted chat platform that enables users to securely exchange text messages. It consists of a Server program, which runs on a network-connected computer, and a command-line Client application for users to connect, create accounts, and engage in secure chatting with other account holders on the server.
 
+### Important info
+
+This project is currently on hold. The server in its current state is untested as the client has not been adapted to the server yet. When the project will be resumed is unknown.
+
 ### Server Program
 
 The Server is a socket server that accepts packets from the Client, performing various operations as requested, including account creation, login, and message transmission. Users interested in hosting their own server can execute this on their computer.
@@ -56,8 +60,4 @@ The project's future enhancements may include:
 
 This open-source project empowers users to control their chat server's security and functionality while providing a user-friendly experience.
 
-### Where are the repositories??
-
-As the project is still a work in progress, repositories pertaining to the project are private. After the first fully working prototype of the project is ready, all repositories will be made public under the GNU AGPL license.
-
-_README.md created by [Si6gma](https://github.com/Si6gma)_
+_README.md created by [Si6gma](https://github.com/Si6gma), edited by @pseudoforceyt_ 
